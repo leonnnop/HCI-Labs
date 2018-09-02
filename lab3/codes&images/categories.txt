@@ -1,0 +1,12 @@
+airplane
+ant
+butterfly
+chair
+crab
+cup
+garfield
+lamp
+pizza
+rooster
+wild_cat
+yin_yang
